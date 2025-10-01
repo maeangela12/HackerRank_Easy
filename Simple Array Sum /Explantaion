@@ -1,0 +1,3 @@
+The Simple Array Sum is a function that takes of all list numbers and adds. 
+first a variable n is set to 0 to remain the total. then i used a foreach loop,
+each number from the list is adds to n using n += arr.
