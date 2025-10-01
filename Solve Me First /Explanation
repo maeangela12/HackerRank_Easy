@@ -1,0 +1,3 @@
+The Solve Me First is a small function that two have value, first the a and the second value is b,
+The values (int a, int b) are the parameters of the function, and it must return an integer value.
+and the program reads two numbers, then the process is adding them together using return a + b.
