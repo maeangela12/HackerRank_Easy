@@ -1,0 +1,2 @@
+Calculates the dfference between the sum of the two diagonals of a numbers. it start wth two
+sums set to zero loops trough each elements adds the numbers.
