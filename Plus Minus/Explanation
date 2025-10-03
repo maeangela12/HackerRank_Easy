@@ -1,0 +1,3 @@
+The codes have three element (positive, negative, zero)
+to track the number of positive, negative, zero values in the array
+arr.
