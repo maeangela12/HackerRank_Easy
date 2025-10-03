@@ -1,0 +1,4 @@
+The Drawing Book have number of page and turns
+need to reach page p in a book with n pages.
+First compute is from the (fromFront = p / 2)
+and from the back (frontBack = n/2 - p/2. 
