@@ -1,0 +1,2 @@
+This codes calculates the sum of list of a large integers. the sum to 0 then iterates through the list
+and addng each nteger to sum.
