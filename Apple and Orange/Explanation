@@ -1,0 +1,2 @@
+The code initializes counters for apples and oranges. 
+It then checks each apple's position (adjusted by  a ) and each orange's position (adjusted by  b ), incrementing the respective counter if the adjusted position falls within the range  [s, t] .
