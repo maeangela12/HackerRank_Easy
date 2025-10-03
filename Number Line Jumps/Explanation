@@ -1,0 +1,3 @@
+The two kangaroos starting at position of 
+x1 and x2, jumping with v1, v2. inside the loop then it checked the kangaroo 
+land on the same position at the same time.
